@@ -1,0 +1,13 @@
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.AssemblyInfoInputs.cache
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.AssemblyInfo.cs
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.csproj.CoreCompileInputs.cache
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.exe
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.deps.json
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.runtimeconfig.json
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.runtimeconfig.dev.json
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.dll
+C:\Users\namwe\source\repos\dogName_project\bin\Debug\netcoreapp3.1\dogName_project.pdb
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.csprojAssemblyReference.cache
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.dll
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.pdb
+C:\Users\namwe\source\repos\dogName_project\obj\Debug\netcoreapp3.1\dogName_project.genruntimeconfig.cache
